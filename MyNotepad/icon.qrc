@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>icon/undo.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/new.png</file>
+        <file>icon/open.png</file>
+        <file>icon/save.png</file>
+        <file>icon/write.ico</file>
+        <file>icon/write.png</file>
+        <file>icon/flower.gif</file>
+    </qresource>
+</RCC>

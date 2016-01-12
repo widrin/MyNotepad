@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>WallPaper/1a5ec3b2b25deb255f3850f095795210.jpeg</file>
+        <file>WallPaper/2c261d48d12e38d20169e6227a82351e.jpg</file>
+        <file>WallPaper/4d30cc0268e35a61378bd8cc0cca1d03.jpg</file>
+        <file>WallPaper/4e84a70aa5b3a6b330c39f7cf07e62dd.jpg</file>
+        <file>WallPaper/5fe7064872d843c6e8fa7b1123050cdb.jpg</file>
+        <file>WallPaper/20dd8e5815cbf21ebda1f1c2443ffe78.jpg</file>
+        <file>WallPaper/54aa24208034dbbd4c63dc4dff9e996a.jpeg</file>
+        <file>WallPaper/290a1c339c4ae8463eb35492798c7ca7.jpg</file>
+        <file>WallPaper/975e3f737aeb5b613bce0631b1cad289.jpg</file>
+        <file>WallPaper/643229f201067210123daddd4ae6ae3b.jpg</file>
+        <file>WallPaper/c00f3e7262b8bfa47b6f148e1d82750d.jpeg</file>
+        <file>WallPaper/d00f87fc1b78c233291e6b95802ac6d8.jpeg</file>
+        <file>WallPaper/rain.jpg</file>
+    </qresource>
+</RCC>

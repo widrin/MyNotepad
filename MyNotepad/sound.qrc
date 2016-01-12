@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/sound">
+        <file>1.wav</file>
+    </qresource>
+</RCC>
